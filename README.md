@@ -40,9 +40,3 @@ In terms of performance, the two best models were, as mentioned in the introduct
 - Try more parameters combination for the logistic regressor
 - Give more time for the auto ML to try different models and hyper parameters
 - Try different metrics for the auto ML
- 
-
-
-## Proof of cluster clean up
-**If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
-**Image of cluster marked for deletion**
